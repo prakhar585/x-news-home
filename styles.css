@@ -24,14 +24,14 @@ body {
   height: 80px;
 }
 
-ul.nav-items {
+ul.nav-itmes {
   display: flex;
   list-style: none;
   padding: 0;
   margin: 0 10px;
 }
 
-ul.nav-items li {
+ul.nav-itmes li {
   margin: 10px;
 }
 
